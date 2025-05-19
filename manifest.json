@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "DDoS Attack",
+  "version": "1.0",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "storage"
+  ]
+}
